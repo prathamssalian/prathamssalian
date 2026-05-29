@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Pratham+S+Salian;B.Tech+Information+Science+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Hackathon+Participant;Future+Tech+Entrepreneur" />
+<img width="851" height="315" alt="Simple Inspirational Travel Quote Cover Photo" src="https://github.com/user-attachments/assets/a2320208-1d0a-4bf6-9300-9452e1ad4839" />
 
 </div>
 
