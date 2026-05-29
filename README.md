@@ -75,16 +75,6 @@
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamssalian&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 [![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathamssalian\&theme=tokyo-night)](https://github.com/prathamssalian)
@@ -108,12 +98,6 @@
 <img src="https://komarev.com/ghpvc/?username=prathamssalian&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-"Code. Build. Learn. Repeat."
 
 ---
 
