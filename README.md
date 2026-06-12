@@ -110,112 +110,6 @@ My engineering philosophy centers around building impactful products that combin
 
 ---
 
-# Featured Projects
-
-<details>
-<summary><b>AI-Based Resume Ranker</b></summary>
-
-### Project Overview
-
-AI-powered resume screening platform leveraging NLP techniques to evaluate, rank, and match candidate profiles against job descriptions.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Python, Flask, NLP, Scikit-Learn, HTML, CSS |
-| Scale | Multi-user Recruitment Workflow |
-| Performance | Automated Resume Ranking |
-| Security | Input Validation & Secure Processing |
-| Impact | Faster Candidate Shortlisting |
-| Repository | Available on GitHub |
-
-#### Engineering Highlights
-
-- Resume parsing and preprocessing
-- Intelligent candidate ranking
-- Skill matching algorithms
-- Recruiter dashboard integration
-- Enterprise-ready architecture
-
-</details>
-
-<details>
-<summary><b>AI Career Guidance Chatbot</b></summary>
-
-### Project Overview
-
-An intelligent career recommendation platform designed to guide students through educational and professional pathways.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Python, Flask, OpenAI API, JavaScript |
-| Scale | Student Career Guidance Platform |
-| Performance | Real-time AI Responses |
-| Security | Secure User Authentication |
-| Impact | Personalized Career Planning |
-| Repository | Available on GitHub |
-
-#### Engineering Highlights
-
-- Conversational AI workflows
-- Dynamic recommendation engine
-- Personalized learning pathways
-- Career analytics dashboard
-
-</details>
-
-<details>
-<summary><b>Speech Translation System</b></summary>
-
-### Project Overview
-
-Real-time speech recognition and multilingual translation platform powered by modern AI technologies.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Python, Whisper, Flask |
-| Scale | Multi-language Processing |
-| Performance | Near Real-Time Translation |
-| Security | Secure Request Handling |
-| Impact | Accessibility Enhancement |
-| Repository | Available on GitHub |
-
-#### Engineering Highlights
-
-- Speech-to-text conversion
-- Language detection
-- Translation pipeline
-- Responsive web interface
-
-</details>
-
-<details>
-<summary><b>Laundry Management System</b></summary>
-
-### Project Overview
-
-Enterprise-grade management platform for laundry businesses featuring customer management, orders, payments, and analytics.
-
-| Metric | Details |
-|---------|----------|
-| Stack | Java Swing, MySQL |
-| Scale | Business Operations Platform |
-| Performance | Efficient Order Processing |
-| Security | Database Validation Controls |
-| Impact | Operational Automation |
-| Repository | Available on GitHub |
-
-#### Engineering Highlights
-
-- Multi-module architecture
-- Payment management
-- Delivery tracking
-- Revenue analytics
-- Reporting dashboards
-
-</details>
-
----
-
 # Experience
 
 ### Secretary | Leo Club International Malpe Unit
@@ -249,30 +143,6 @@ Led organizational initiatives, coordinated large-scale events, and managed stak
 | Research & Learning | Active contributor to technical projects and innovation initiatives |
 
 </div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws)
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
-![](https://img.shields.io/badge/Oracle-Database-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/NPTEL-Data%20Science-5B21B6?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -314,31 +184,11 @@ Led organizational initiatives, coordinated large-scale events, and managed stak
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&column=7"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
