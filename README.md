@@ -194,37 +194,6 @@ Led organizational initiatives, coordinated large-scale events, and managed stak
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - System Design
-  - Cloud Architecture
-  - MLOps
-
-Building:
-  - AI-Based Resume Ranker
-  - Voice AI Assistant
-  - Educational Technology Platforms
-  - Intelligent Automation Systems
-
-Exploring:
-  - Large Language Models
-  - Agentic AI Systems
-  - Generative AI Applications
-  - Scalable Backend Systems
-
-Open_To:
-  - Software Engineering Internships
-  - AI/ML Roles
-  - Open Source Contributions
-  - Research Collaborations
-  - Startup Opportunities
-```
-
----
-
 # Connect
 
 <div align="center">
