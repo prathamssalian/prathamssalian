@@ -110,42 +110,6 @@ My engineering philosophy centers around building impactful products that combin
 
 ---
 
-# Experience
-
-### Secretary | Leo Club International Malpe Unit
-
-**Duration:** Leadership Experience
-
-Led organizational initiatives, coordinated large-scale events, and managed stakeholder engagement while strengthening leadership, communication, and project management capabilities.
-
-#### Scope of Work
-
-- Managed event planning and execution
-- Coordinated cross-functional teams
-- Organized community initiatives
-- Led operational planning activities
-- Enhanced member engagement strategies
-
-**Skills:** `Leadership` `Project Management` `Communication` `Operations` `Event Management`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|----------|
-| Academic Excellence | Maintained 9.0 CGPA in Information Science & Engineering |
-| Software Development | Built multiple production-oriented applications |
-| AI Innovation | Developed NLP and AI-powered solutions |
-| Leadership | Served as Secretary at Leo Club International |
-| Research & Learning | Active contributor to technical projects and innovation initiatives |
-
-</div>
-
----
-
 # Coding Profiles
 
 <div align="center">
