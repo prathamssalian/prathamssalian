@@ -184,3 +184,12 @@ My engineering philosophy centers around building impactful products that combin
 
 <div align="center">
 
+## 📈 Contribution Graph
+
+[![Pratham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathamssalian&theme=tokyo-night&hide_border=true)](https://github.com/prathamssalian)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathamssalian/prathamssalian/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
