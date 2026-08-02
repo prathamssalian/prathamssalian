@@ -31,9 +31,9 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=5B21B6)
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=prathamssalian&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/prathamssalian?style=for-the-badge&color=5B21B6)
+![](https://img.shields.io/github/stars/prathamssalian?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6)
 
 </div>
 
